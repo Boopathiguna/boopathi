@@ -1,4 +1,3 @@
-import { getValue } from "@testing-library/user-event/dist/utils";
 import { useState,useEffect } from "react";
 export default function Effect3(){
     const [count,setcount]=useState(0);
