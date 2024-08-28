@@ -23,6 +23,7 @@ export default function Form(){
                 <option value='HTML'>HTML</option>
                 <option value='CSS'>CSS</option>
                 <option value='JS'>JS</option>
+                <option value='REACT'>React</option>
                 </select>
 
         </div>
