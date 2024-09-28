@@ -10,6 +10,8 @@ import Effect1 from "./components/useeffect1"
 import Effect2 from "./components/useeffect2"
 import Effect3 from "./components/useeffect3"
 import Form from "./components/form"
+import Todolist from "./components/to-do-list"
+
 
 export default function App(){
   return(
@@ -38,6 +40,7 @@ export default function App(){
       <Effect3/>
       <hr/>
       <Form/>
+      <Todolist/>
     </div>
   )
 }

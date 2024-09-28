@@ -28,4 +28,3 @@ class Classcomponent extends React.Component{
 
     }
     export default Classcomponent;
-
